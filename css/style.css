@@ -19,7 +19,7 @@ html {
 body {
   font-family: 'Open Sans', sans-serif;
   text-transform: capitalize;
-  height: 9000px;
+  /* height: 9000px; */
 }
 
 a {
